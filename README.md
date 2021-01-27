@@ -1,1 +1,1 @@
-See the release for the raw data (the file is too large to directly loaded here).
+Click on the releases icon on the right to get the raw data (the file is too large to directly loaded here).
