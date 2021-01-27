@@ -1,1 +1,1 @@
-All the raw data, experimental scripts and analysis scripts of the subliminal color flicker project will be here soon
+See the release for the raw data (the file is too large to directly loaded here).
